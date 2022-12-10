@@ -1,4 +1,4 @@
-#the program should print the sum of the two digit number
+#The program should print the sum of the two digit number
 
 #input the two digit number
 two_digit_number = input("Type a two digit number: ")
