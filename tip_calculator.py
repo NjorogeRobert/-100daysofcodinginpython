@@ -1,4 +1,4 @@
-#a program tha calculates the tip and the amount to pay for each member
+#A program tha calculates the tip and the amount to pay for each member
 
 print("Welcome to the tip calculator")
 
