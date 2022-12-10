@@ -1,4 +1,4 @@
-#the program should calculate the BMI of a person
+#The program should calculate the BMI of a person
 #get inputs from the clients
 
 height= input("Enter your height in M: ")
