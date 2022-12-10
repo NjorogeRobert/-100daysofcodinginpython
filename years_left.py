@@ -1,4 +1,4 @@
-'''the program calculates the years, months , weeks and days a person has left.
+'''The program calculates the years, months , weeks and days a person has left.
 taking weeks to be 52 per year,days 365 per year, months 12 per year
 '''
 #Input age
